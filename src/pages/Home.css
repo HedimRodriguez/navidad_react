@@ -1,0 +1,17 @@
+.home {
+  text-align: center;
+  background: linear-gradient(to bottom, #b80000, #006400);
+  color: white;
+  padding: 3rem;
+}
+
+.home .hero {
+  max-width: 100%;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.home h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
